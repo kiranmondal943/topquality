@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kani201012.github.io/top-quality-glass-riyadh/sitemap.xml
